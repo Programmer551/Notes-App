@@ -13,7 +13,7 @@
   margin: 10px;
 }
 body {
-  background: url("/Images/Notes.avif");
+  background: url("./Images/Notes.avif");
   background-size: cover;
   display: flex;
   justify-content: center;
