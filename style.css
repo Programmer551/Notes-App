@@ -22,5 +22,9 @@ body {
 }
 .notes {
   position: relative;
-  /* top: 20px; */
+}
+@media only screen and (mix-width: 1027) {
+  body {
+    height: 100vh;
+  }
 }
